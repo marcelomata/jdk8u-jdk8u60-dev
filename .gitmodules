@@ -1,0 +1,21 @@
+[submodule "corba"]
+	path = corba
+	url = git@github.com:krichter722/jdk8u-jdk8u60-dev-corba.git
+[submodule "jaxp"]
+	path = jaxp
+	url = git@github.com:krichter722/jdk8u-jdk8u60-dev-jaxp.git
+[submodule "jaxws"]
+	path = jaxws
+	url = git@github.com:krichter722/jdk8u-jdk8u60-dev-jaxws.git
+[submodule "nashorn"]
+	path = nashorn
+	url = git@github.com:krichter722/jdk8u-jdk8u60-dev-nashorn.git
+[submodule "langtools"]
+	path = langtools
+	url = git@github.com:krichter722/jdk8u-jdk8u60-dev-langtools.git
+[submodule "jdk"]
+	path = jdk
+	url = git@github.com:krichter722/jdk8u-jdk8u60-dev-jdk.git
+[submodule "hotspot"]
+	path = hotspot
+	url = git@github.com:krichter722/jdk8u-jdk8u60-dev-hotspot.git
